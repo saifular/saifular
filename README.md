@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-[![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=za-rakib&theme=tokyonight&show_icons=true)](https://github.com/saifular/github-readme-stats)
+[![Saiful Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifular&theme=tokyonight&show_icons=true)](https://github.com/saifular/github-readme-stats)
 
 📊 **This week I spent my time on** 
 
